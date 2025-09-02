@@ -9,7 +9,7 @@ This repository documents my **3-month Data Structures & Algorithms plan** (Dead
 Instead of coding *every single problem*, I follow the **80/20 rule** — solving **20% of problems** that cover **80% of patterns and interview questions**.  
 Each concept includes:
 - 🔑 Core concepts & patterns  
-- 💡 Handpicked problems (LeetCode, GUVI, etc.)  
+- 💡 Handpicked problems (LeetCode, GFG, etc.)  
 - ✍️ Notes, cheat sheets & self-explanations  
 
 ---
@@ -49,7 +49,7 @@ Each concept includes:
 ⏳ 8 hours/day commitment
 
 ### **Days 41–50**
-⚙️ OOP Concepts, Linked List
+⚙️ OOPS Concepts, Linked List
 
 ### **Days 51–60**
 📚 Stack & Queue

@@ -67,6 +67,6 @@ Each concept includes:
 🎯 Dynamic Programming (DP), Algorithms, Knapsack  
 
 ---
-# Any Queries or need help(contact)
-# Linkedin : https://linkedin.com/in/bharath-kumar-ba41a2311 (I Post Regularly) --->Let's Connect
-# Gmail : parimibharathkumar@gmail.com
+## Any Queries 
+### Linkedin : https://linkedin.com/in/bharath-kumar-ba41a2311 (I Post Regularly) --->Let's Connect
+### Gmail : parimibharathkumar@gmail.com
